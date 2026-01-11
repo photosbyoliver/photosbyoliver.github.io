@@ -1,0 +1,10 @@
+photosbyoliver-website/
+│
+├─ index.html
+├─ gallery.html
+├─ style.css
+├─ script.js
+└─ images/
+     ├─ photo1.jpg
+     ├─ photo2.jpg
+     └─ ...
